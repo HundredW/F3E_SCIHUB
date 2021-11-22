@@ -2,7 +2,6 @@
 # @Time    : 2021/11/22 10:34
 # @Author  : HundredW
 # @Github  : https://github.com/HundredW
-# @Email   : han.wang@stu.pku.edu.cn
 # @File    : F3E_SCIHUB.py
 # @Des     : Find and download full text for endnote library by DOIs via sci-hub;
 #            JUST FOR THOES Paper Reference THAT DO NOT HAVE ANY Attachment
